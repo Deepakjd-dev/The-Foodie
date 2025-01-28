@@ -32,7 +32,7 @@ To get a local copy up and running, follow these steps:
 
 ## 📸 Screenshots
 
-![Food Recipe Finder Screenshot](assets/images/food.png)
+![Food Recipe Finder Screenshot](FoodRecipe/assets/images/food.png)
 
 ## 🛠️ Usage
 
