@@ -1,4 +1,4 @@
-# 🍽️ Food Recipe Finder
+# 🍽️ The Foodie
 
 Welcome to the **Food Recipe Finder** project! This web application allows users to discover a variety of food recipes with just a click. Whether you're looking for a quick meal or an elaborate dish, this app makes it easy to find delicious recipes based on your ingredients.
 
@@ -22,11 +22,11 @@ To get a local copy up and running, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/food-recipe-finder.git
+   git clone https://github.com/Deepakjd-dev/The-Foodie.git
    ```
 2. **Navigate to the project directory**:
    ```bash
-   cd food-recipe-finder
+   cd The-Foodie
    ```
 3. **Open `index.html` in your web browser** to view the application.
 
