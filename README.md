@@ -55,6 +55,21 @@ Contributions are welcome! Please feel free to submit a pull request or raise an
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+## 📁 File Structure
+
+```plaintext
+.
+├── assets/
+│   ├── css/
+│   │   └── style.css        # Styling for the project
+│   ├── images/              # Images used across the portfolio
+│   ├── js/                  
+│   │   └── app.js           #  JavaScript for the project
+│   └── fonts/               # Custom fonts used in the design
+├── index.html               # Main HTML file
+└── README.md                # Project documentation
+```
+
 ## 📞 Contact
 
 For any questions, feel free to reach out:
